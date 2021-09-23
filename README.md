@@ -14,3 +14,6 @@ To make an exectutable for testing veesay early, type the following:
 dotnet publish -c Release
 ```
 Simply run the resulting executable `VeeSay` in `bin/Release/net5.0/publish/` relative to the project directory followed by some text.
+
+## I just want the cute eevee cow
+For traditionalists who do not want the enhanced features in veesay, you may install the provided eevee.cow file in /usr/share/cowsay/cows, then specify the eevee cow: `cowsay -f eevee`
