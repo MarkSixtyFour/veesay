@@ -1,4 +1,5 @@
 # veesay
+![Demo Screenshot](../assets/demo.png?raw=true)
 An enhanced clone of cowsay written in C# aiming to implement more features, such as different speech bubble styles and backgrounds.
 
 ## Current state
