@@ -11,4 +11,4 @@ To make an exectutable for testing veesay early, type the following:
 ```
 dotnet publish -c Release
 ```
-Simply run the resulting executable `VeeSay` in `bin/Release/net5.0/publish/` relative to the project directory.
+Simply run the resulting executable `VeeSay` in `bin/Release/net5.0/publish/` relative to the project directory followed by some text.
