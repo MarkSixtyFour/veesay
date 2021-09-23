@@ -1,7 +1,7 @@
 # veesay
 An enhanced clone of cowsay written in C# aiming to implement more features, such as different speech bubble styles and backgrounds.
 
-## Current state.
+## Current state
 A preliminary implementation has been completed. I have made an ASCII rendition of [Eevee](https://en.wikipedia.org/wiki/Eevee) as test data, which gave the project its initial namesake for being the test subject. The ASCII art used by the program is currently hard-coded, but will be moved in its entirety to the project wiki as example data. **As veesay is in pre-alpha state, code will change drastically as new features are implemented.**
 
 ## Installation
